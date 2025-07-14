@@ -1,0 +1,486 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Cata de Café Premium",
+      "description": "Descubre los sabores únicos de nuestros cafés premium de origen. Una experiencia sensorial completa que te llevará a través de diferentes regiones cafeteras del mundo.",
+      "image": "https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-02-15T10:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 45000,
+      "sponsors": [
+        {
+          "name": "Café Premium"
+        },
+        {
+          "name": "Tostadores Unidos"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Taller de Molido Artesanal",
+      "description": "Aprende las técnicas correctas para el molido perfecto del café. Descubre cómo diferentes grados de molido afectan el sabor final de tu bebida.",
+      "image": "https://images.pexels.com/photos/4350057/pexels-photo-4350057.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-02-20T14:00:00",
+      "status": "active",
+      "type": "free",
+      "price": 0,
+      "sponsors": [
+        {
+          "name": "Molinos Artesanales"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Preparación con Métodos Alternativos",
+      "description": "Domina el arte de la preparación con V60, Chemex y AeroPress. Aprende a extraer los mejores sabores con estos métodos de preparación manual.",
+      "image": "https://images.pexels.com/photos/4040753/pexels-photo-4040753.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-02-25T16:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 35000,
+      "sponsors": [
+        {
+          "name": "V60 Store"
+        },
+        {
+          "name": "Chemex Colombia"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Latte Art para Principiantes",
+      "description": "Aprende los fundamentos del arte latte. Desde la preparación de la leche hasta crear diseños básicos como corazones y hojas.",
+      "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-03-05T11:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 50000,
+      "sponsors": [
+        {
+          "name": "Barista Pro"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Historia del Café Colombiano",
+      "description": "Un recorrido por la rica historia del café en Colombia. Conoce las tradiciones, técnicas y regiones que han hecho famoso nuestro café.",
+      "image": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-03-10T15:00:00",
+      "status": "active",
+      "type": "free",
+      "price": 0,
+      "sponsors": [
+        {
+          "name": "Federación Nacional de Cafeteros"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Café y Maridaje",
+      "description": "Descubre cómo maridar diferentes tipos de café con postres y snacks. Una experiencia gastronómica única.",
+      "image": "https://images.pexels.com/photos/1833769/pexels-photo-1833769.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-03-15T18:00:00",
+      "status": "inactive",
+      "type": "paid",
+      "price": 60000,
+      "sponsors": [
+        {
+          "name": "Gourmet Delights"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Introducción al Café de Especialidad",
+      "description": "Conoce las características que hacen especial a un café. Aprende sobre puntuación, origen y procesos de beneficio.",
+      "image": "https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-03-20T09:00:00",
+      "status": "active",
+      "type": "free",
+      "price": 0,
+      "sponsors": [
+        {
+          "name": "Specialty Coffee Association"
+        },
+        {
+          "name": "Café de Origen"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Barismo Avanzado",
+      "description": "Perfecciona tus habilidades como barista. Técnicas avanzadas de extracción, calibración de molinos y control de variables.",
+      "image": "https://images.pexels.com/photos/2396220/pexels-photo-2396220.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-03-25T14:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 75000,
+      "sponsors": [
+        {
+          "name": "Barista Pro"
+        },
+        {
+          "name": "Coffee Masters"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Tostado Casero de Café",
+      "description": "Aprende a tostar café en casa. Conoce los perfiles de tostado y cómo desarrollar sabores únicos en tus granos.",
+      "image": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-04-01T16:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 55000,
+      "sponsors": [
+        {
+          "name": "Tostadores Artesanales"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Café y Sostenibilidad",
+      "description": "Descubre la importancia de la sostenibilidad en la cadena del café. Comercio justo, agricultura orgánica y responsabilidad social.",
+      "image": "https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-04-05T10:00:00",
+      "status": "active",
+      "type": "free",
+      "price": 0,
+      "sponsors": [
+        {
+          "name": "Fair Trade Coffee"
+        },
+        {
+          "name": "Eco Café"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Cold Brew y Café Frío",
+      "description": "Domina las técnicas de preparación en frío. Cold brew, iced coffee y bebidas refrescantes a base de café.",
+      "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-04-10T15:00:00",
+      "status": "active",
+      "type": "paid",
+      "price": 40000,
+      "sponsors": [
+        {
+          "name": "Cold Brew Co"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Café y Cultura Mundial",
+      "description": "Un viaje por las diferentes culturas del café alrededor del mundo. Tradiciones, rituales y preparaciones únicas.",
+      "image": "https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "date": "2025-04-15T13:00:00",
+      "status": "active",
+      "type": "free",
+      "price": 0,
+      "sponsors": [
+        {
+          "name": "World Coffee Culture"
+        }
+      ]
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "email": "maria@example.com",
+      "date": "2025-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "email": "carlos@example.com",
+      "date": "2025-01-18T14:20:00.000Z"
+    },
+    {
+      "id": "3",
+      "email": "ana@example.com",
+      "date": "2025-01-20T09:15:00.000Z"
+    },
+    {
+      "id": "4",
+      "email": "luis@example.com",
+      "date": "2025-01-22T16:45:00.000Z"
+    },
+    {
+      "id": "5",
+      "email": "sofia@example.com",
+      "date": "2025-01-25T11:30:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "name": "Juan Pérez",
+      "email": "juan@example.com",
+      "message": "Hola, me gustaría saber más información sobre los talleres de barista. ¿Cuáles son los horarios disponibles?",
+      "date": "2025-01-20T14:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "María González",
+      "email": "maria.gonzalez@example.com",
+      "message": "Excelente evento el de la semana pasada. ¿Cuándo será el próximo taller de latte art?",
+      "date": "2025-01-22T10:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Carlos Rodríguez",
+      "email": "carlos.r@example.com",
+      "message": "Me interesa participar en los eventos de cata. ¿Necesito tener experiencia previa?",
+      "date": "2025-01-24T16:20:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Ana Martínez",
+      "email": "ana.martinez@example.com",
+      "message": "¿Ofrecen descuentos para grupos? Somos una empresa interesada en un evento corporativo.",
+      "date": "2025-01-26T09:45:00.000Z"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "1",
+      "eventId": 1,
+      "ticketNumber": "TKT-1705834800000",
+      "name": "Laura Fernández",
+      "email": "laura@example.com",
+      "phone": "+573001234567",
+      "purchaseDate": "2025-01-21T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "eventId": 3,
+      "ticketNumber": "TKT-1705921200000",
+      "name": "Roberto Silva",
+      "email": "roberto@example.com",
+      "phone": "+573009876543",
+      "purchaseDate": "2025-01-22T14:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "eventId": 1,
+      "ticketNumber": "TKT-1706007600000",
+      "name": "Carolina Vargas",
+      "email": "carolina@example.com",
+      "phone": "+573005555555",
+      "purchaseDate": "2025-01-23T18:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "eventId": 4,
+      "ticketNumber": "TKT-1706094000000",
+      "name": "Diego Morales",
+      "email": "diego@example.com",
+      "phone": "+573007777777",
+      "purchaseDate": "2025-01-24T12:00:00.000Z"
+    },
+    {
+      "id": "1d24",
+      "eventId": 1,
+      "ticketNumber": "TKT-1751852098326",
+      "name": "asd",
+      "email": "amparo.morales@gmail.com",
+      "phone": "2222",
+      "purchaseDate": "2025-07-07T01:34:58.326Z"
+    },
+    {
+      "id": "b19c",
+      "eventId": 1,
+      "ticketNumber": "TKT-1751858617933",
+      "name": "Luz Mary Arias Cristancho",
+      "email": "maryarias09@hotmail.com",
+      "phone": "3002064054",
+      "purchaseDate": "2025-07-07T03:23:37.933Z"
+    },
+    {
+      "id": "aea9",
+      "eventId": 3,
+      "ticketNumber": "TKT-1752096740641",
+      "name": "asd",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "2222",
+      "purchaseDate": "2025-07-09T21:32:20.641Z"
+    },
+    {
+      "id": "eb97",
+      "eventId": 9,
+      "ticketNumber": "TKT-1752097315560",
+      "name": "asd",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "asd",
+      "purchaseDate": "2025-07-09T21:41:55.560Z"
+    },
+    {
+      "id": "304e",
+      "eventId": 1,
+      "ticketNumber": "TKT-1752112147649",
+      "name": "Richi",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "11111111111",
+      "purchaseDate": "2025-07-10T01:49:07.649Z"
+    }
+  ],
+  "attendees": [
+    {
+      "id": "1",
+      "eventId": 2,
+      "attendanceNumber": "ATT-1705834800000",
+      "name": "María López",
+      "email": "maria.lopez@example.com",
+      "phone": "+573001111111",
+      "registrationDate": "2025-01-21T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "eventId": 5,
+      "attendanceNumber": "ATT-1705921200000",
+      "name": "Carlos Mendoza",
+      "email": "carlos.mendoza@example.com",
+      "phone": "+573002222222",
+      "registrationDate": "2025-01-22T14:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "eventId": 2,
+      "attendanceNumber": "ATT-1706007600000",
+      "name": "Ana García",
+      "email": "ana.garcia@example.com",
+      "phone": "+573003333333",
+      "registrationDate": "2025-01-23T18:00:00.000Z"
+    },
+    {
+      "id": "e87c",
+      "eventId": 2,
+      "attendanceNumber": "ATT-1752096179853",
+      "name": "asdf",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "asd",
+      "registrationDate": "2025-07-09T21:22:59.853Z"
+    },
+    {
+      "id": "acb7",
+      "eventId": 7,
+      "attendanceNumber": "ATT-1752097392106",
+      "name": "asdasd",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "asd",
+      "registrationDate": "2025-07-09T21:43:12.106Z"
+    },
+    {
+      "id": "2267",
+      "eventId": 5,
+      "attendanceNumber": "ATT-1752102682962",
+      "name": "S",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "11111111111",
+      "registrationDate": "2025-07-09T23:11:22.962Z"
+    },
+    {
+      "id": "75ab",
+      "eventId": 2,
+      "attendanceNumber": "ATT-1752112089830",
+      "name": "Richi",
+      "email": "ricardo225.x@gmail.com",
+      "phone": "11111111111",
+      "registrationDate": "2025-07-10T01:48:09.830Z"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "1",
+      "name": "Café Premium",
+      "website": "https://example.com"
+    },
+    {
+      "id": "2",
+      "name": "Tostadores Unidos",
+      "website": "https://example.com"
+    },
+    {
+      "id": "3",
+      "name": "Molinos Artesanales",
+      "website": "https://example.com"
+    },
+    {
+      "id": "4",
+      "name": "V60 Store",
+      "website": "https://example.com"
+    },
+    {
+      "id": "5",
+      "name": "Chemex Colombia",
+      "website": "https://example.com"
+    },
+    {
+      "id": "6",
+      "name": "Federación Nacional de Cafeteros",
+      "website": "https://example.com"
+    },
+    {
+      "id": "7",
+      "name": "Barista Pro",
+      "website": "https://example.com"
+    },
+    {
+      "id": "8",
+      "name": "Gourmet Delights",
+      "website": "https://example.com"
+    },
+    {
+      "id": "9",
+      "name": "Specialty Coffee Association",
+      "website": "https://example.com"
+    },
+    {
+      "id": "10",
+      "name": "Café de Origen",
+      "website": "https://example.com"
+    },
+    {
+      "id": "11",
+      "name": "Coffee Masters",
+      "website": "https://example.com"
+    },
+    {
+      "id": "12",
+      "name": "Tostadores Artesanales",
+      "website": "https://example.com"
+    },
+    {
+      "id": "13",
+      "name": "Fair Trade Coffee",
+      "website": "https://example.com"
+    },
+    {
+      "id": "14",
+      "name": "Eco Café",
+      "website": "https://example.com"
+    },
+    {
+      "id": "15",
+      "name": "Cold Brew Co",
+      "website": "https://example.com"
+    },
+    {
+      "id": "16",
+      "name": "World Coffee Culture",
+      "website": "https://example.com"
+    }
+  ]
+}
